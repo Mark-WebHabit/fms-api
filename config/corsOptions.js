@@ -1,4 +1,4 @@
-const whiteList = ["https://fms-f8mu.onrender.com"];
+const whiteList = ["https://fms-e6rp.onrender.com"];
 
 export const CorsOptions = {
   origin: (origin, callback) => {
